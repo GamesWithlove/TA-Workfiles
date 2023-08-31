@@ -1,13 +1,18 @@
 -Debuff List-
-Slow down
-Speed fast
-Good Mode
-Mayo
-After burn
-No Jump pack
-No Jump
-No wallrun
-No Sprint
-Biohazard
-Poision damage
-Vampire bite
+Slow down - When active it will slow the player movement speed
+Speed fast - When active it will increase the player movement speed
+Spawn Protection - Grants the player god mode for a few seconds
+Mayo - Indicates that the player has been mayo'd and their shields popped
+After burn - Player is recieving burning damage
+No Jump pack - Player is unnable to double jump
+No Jump - Player is unnable to jump
+No wallrun - Player is unnable to wallrun
+No Sprint - Player is unnable to sprint
+Biohazard - Player is taking some sort of biohazard damage
+Poision damage -  Player is taking some sort of poision damage
+Vampire bite - Player's health is being stolen
+Cheese - Player has been blinded by cheese
+No slide - Player is unnable to slide
+Health Regen - Player Is gaining health
+Ammo Regen - player is gaining ammo
+Bleed - Player is taking bleeding damage
