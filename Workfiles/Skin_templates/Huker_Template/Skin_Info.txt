@@ -1,12 +1,12 @@
 ====Naming convertsion for textures is as follows====
 
-T_(Skin Name)_(Materialtype)
+T_(Weapon Name)_(Skin Name)_(Materialtype)
 
 Ex. 
-    T_RedDecay_BaseColor
-    T_RedDecay_NormalMap
-    T_RedDecay_OclussionRougnessMetalic
-    T_RedDecay_Emissive
+    T_Huker_RedDecay_BaseColor
+    T_Huker_RedDecay_NormalMap
+    T_Huker_RedDecay_OclussionRougnessMetalic
+    T_Huker_RedDecay_Emissive
 
 
 
