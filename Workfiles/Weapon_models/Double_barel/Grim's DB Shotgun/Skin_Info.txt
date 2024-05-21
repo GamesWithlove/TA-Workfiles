@@ -1,0 +1,22 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_DBShotgun_RedDecay_BaseColor
+    T_DBShotgun_RedDecay_NormalMap
+    T_DBShotgun_RedDecay_OclussionRougnessMetalic
+    T_DBShotgun_RedDecay_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: DBShotgun
+
+Skin Name: Cat's Choice
+
+Skin Description: Brown, yellow, and white with muzzle stripe
+
+Skin Author: Toaster Arena
+
