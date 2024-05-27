@@ -1,0 +1,22 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_DKAR_RedDecay_BaseColor
+    T_DKAR_RedDecay_NormalMap
+    T_DKAR_RedDecay_OclussionRougnessMetalic
+    T_DKAR_RedDecay_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: DKAR
+
+Skin Name: Cat's Choice
+
+Skin Description: Brown, yellow, and white with muzzle stripe
+
+Skin Author: Grim
+
