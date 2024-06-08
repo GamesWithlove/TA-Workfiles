@@ -1,0 +1,22 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_DMR_RedDecay_BaseColor
+    T_DMR_RedDecay_NormalMap
+    T_DMR_RedDecay_OclussionRougnessMetalic
+    T_DMR_RedDecay_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: DMR
+
+Skin Name: Template Skin
+
+Skin Description: Template colors used for example skin
+
+Skin Author: Toaster Arena
+
