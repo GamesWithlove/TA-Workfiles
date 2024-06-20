@@ -1,0 +1,22 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_AT_Sniper_RedDecay_BaseColor
+    T_AT_Sniper_RedDecay_NormalMap
+    T_AT_Sniper_RedDecay_OclussionRougnessMetalic
+    T_AT_Sniper_RedDecay_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: ATSniper
+
+Skin Name: Cat's Choice
+
+Skin Description: Brown, yellow, and white with muzzle stripe
+
+Skin Author: Grim
+
