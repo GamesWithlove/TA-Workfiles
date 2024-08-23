@@ -1,0 +1,21 @@
+====Naming convertsion for textures is as follows====
+
+T_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_RedDecay_BaseColor
+    T_RedDecay_NormalMap
+    T_RedDecay_OclussionRougnessMetalic
+    T_RedDecay_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: AT Rifle
+
+Skin Name: Rookie
+
+Skin Description: Old Training version of the AT that has been restored to normal operation.
+Skin Author: Colaonooo
+
