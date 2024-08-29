@@ -1,0 +1,21 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_PumpShotgun_Trash_BaseColor
+    T_PumpShotgun_Trash_NormalMap
+    T_PumpShotgun_Trash_OclussionRougnessMetalic
+    T_PumpShotgun_Trash_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: PumpShotgun
+
+Skin Name: Trash
+
+Skin Description: Its missing parts damnit!
+
+Skin Author: Colaonooo
