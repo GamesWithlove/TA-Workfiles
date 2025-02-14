@@ -1,0 +1,5 @@
+Melee Weapon Fire animation
+Frame 0 = Idle Pose
+Frame 1 to 2 Hit anticipation
+Frame 3 to 5 Hit
+Frame 6 to any is back to idle
