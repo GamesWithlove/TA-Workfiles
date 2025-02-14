@@ -1,0 +1,22 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon Name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_LMG_RedDecay_BaseColor
+    T_LMG_RedDecay_NormalMap
+    T_LMG_RedDecay_OclussionRougnessMetalic
+    T_LMG_RedDecay_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: Wrench
+
+Skin Name: Template Skin
+
+Skin Description: Template colors used for example skin
+
+Skin Author: Toaster Arena
+
