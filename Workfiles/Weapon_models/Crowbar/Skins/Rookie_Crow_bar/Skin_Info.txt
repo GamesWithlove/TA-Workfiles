@@ -1,0 +1,62 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon Name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_Crowbar_RedDecay_BaseColor
+    T_Crowbar_RedDecay_NormalMap
+    T_Crowbar_RedDecay_OclussionRougnessMetalic
+    T_Crowbar_RedDecay_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: Crowbar
+
+Skin Name: Rookie Crow-bar
+
+Skin Description: Raven gave this to you cuz u kinda dumb
+Skin Author: Colaonooo
+
+
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
+BITHC
