@@ -1,0 +1,22 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_PlasmaKnife_RedDecay_BaseColor
+    T_PlasmaKnife_NormalMap
+    T_PlasmaKnife_OclussionRougnessMetalic
+    T_PlasmaKnife_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: PlasmaKnife
+
+Skin Name: Template Skin
+
+Skin Description: Template colors used for example skin
+
+Skin Author: Toaster Arena
+
