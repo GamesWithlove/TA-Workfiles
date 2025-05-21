@@ -1,0 +1,21 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_PlasmaKnife_RedDecay_BaseColor
+    T_PlasmaKnife_NormalMap
+    T_PlasmaKnife_OclussionRougnessMetalic
+    T_PlasmaKnife_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: DKAR
+
+Skin Name: Collectors Editon
+
+Skin Description: Limited color run of the DKAR with 206 ever made.
+
+Skin Author: Colaonooo
