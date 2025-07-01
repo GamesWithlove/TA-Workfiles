@@ -1,0 +1,22 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon Name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_WPN_HumanSword_RedDecay_BaseColor
+    T_WPN_HumanSword_NormalMap
+    T_WPN_HumanSword_OclussionRougnessMetalic
+    T_WPN_HumanSword_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: Human Sword
+
+Skin Name: Template Skin
+
+Skin Description: Template colors used for example skin
+
+Skin Author: Toaster Arena
+
