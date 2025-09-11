@@ -1,0 +1,44 @@
+{
+	"appid": 480,
+	"items": [
+	{
+		"itemdefid": 10,
+		"type": "playtimegenerator",
+		"bundle": "100x100;101x50;102x25;103x2;110x20;111x20;120x5;121x3",
+		"name": "Drop Generator",
+		"name_color":  "7D6D00",
+		"background_color":  "3C352E",
+		"icon_url": "http://cdn.beta.steampowered.com/apps/440/icons/c_fireaxe_pyro_xmas_large.fa878752e1aa09a721a03042a234063b6c929278.png",
+		"icon_url_large": "http://cdn.beta.steampowered.com/apps/440/icons/c_fireaxe_pyro_xmas_large.fa878752e1aa09a721a03042a234063b6c929278.png",
+		"tradable": false,
+		"marketable": false
+	},
+	{
+		"itemdefid": 100,
+		"type":  "item",
+		"name": "Hat decoration",
+		"description": "Hat decoration description",
+		"price": "1;USD99",
+		"name_color":  "7D6D00",
+		"background_color":  "3C352E",
+		"icon_url": "http://cdn.beta.steampowered.com/apps/440/icons/c_fireaxe_pyro_xmas_large.fa878752e1aa09a721a03042a234063b6c929278.png",
+		"icon_url_large": "http://cdn.beta.steampowered.com/apps/440/icons/c_fireaxe_pyro_xmas_large.fa878752e1aa09a721a03042a234063b6c929278.png",
+		"tradable": true,
+		"marketable": true
+	},
+	{
+		"itemdefid": 200,
+		"type":  "item",
+		"price": "1;VLV100",
+		"name_english": "Red Hat",
+		"name_german":  "Roter Hut",
+		"description_english": "Red Hat",
+		"description_german": "Roter Hut",
+		"store_tags": "hat;featured",
+		"icon_url": "http://cdn.beta.steampowered.com/apps/440/icons/c_fireaxe_pyro_xmas_large.fa878752e1aa09a721a03042a234063b6c929278.png",
+		"icon_url_large": "http://cdn.beta.steampowered.com/apps/440/icons/c_fireaxe_pyro_xmas_large.fa878752e1aa09a721a03042a234063b6c929278.png",
+		"tradable": true,
+		"marketable": true
+	}
+	]
+}
