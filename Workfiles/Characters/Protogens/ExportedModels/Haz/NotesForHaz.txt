@@ -1,0 +1,2 @@
+Rootbone must have <NoIK> to the rootbone if exporting to resonite
+Up must be positive Y and right must be positive Z
