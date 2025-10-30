@@ -1,0 +1,29 @@
+Browniebin
+
+20 USD for base extraction
+
+Armor combinations:
+
+Rookie (Base)
+Raven Armor + 2 USD
+Mv3 Armor +2 USD
+Undersuit left arm +2 USD
+Civilian Chest Armor +2 USD 
+Shark Tail Tri + 2 USD
+Electric guittar backpack + 2 USD
+Top Hat + 2 USD
+Glasses + 2 USD
+Visor connector + 2 USD
+^^(Uses rookie set but emission color is diferent meaning that it needs to be a separate material with unique colored textures)
+Rookie right shoulder forearm armor + 2 USD
+^^(Uses rookie set but colors is diferent meaning that it needs to be a separate material with unique colored textures)
+
+
+Prototype Jump Pack + 5 USD
+
+
+
+VRC Ready avatar + 20 USD
+
+Total 67 USD
+
