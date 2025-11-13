@@ -1,0 +1,34 @@
+Character animation name format  ->  AS_Char_Weapon_LaserGun_
+
+Weapon animation name format  ->  AS_WPN_Weapon_LaserGun_
+
+This is a laser beam weapon that's been roughly scrapped together and it's still on the experimental phase, the weapon must feel agresive and punchy Extra agresive during it's overheating actions
+
+==Required Animations==
+
+AS_Char_Weapon_LaserGun_IdleRef (Static pose for holding the weapon at an idle pose) (Min 5 Frames) (Max 6 Frames)
+AS_Char_Weapon_LaserGun_Equip (Weapon unholster animation, weapon comes into view from the bottom or top and enters and idle pose ready to fire) (Animation needs to be fast due to gameplay) (Maybe a max of 40 frames at 60 fps?)
+AS_Char_Weapon_LaserGun_FireStart (Start animation for shooting the weapon) (Weapon produces an initial kick uppon pressing the trigger, animation must end in a state that can be looped)
+AS_Char_Weapon_LaserGun_FireLoop (Looping shooting aniamtion for the weapon) (Weapon is emiting a high powered beam, it needs to feel powerfull and volatile)
+AS_Char_Weapon_LaserGun_FireEnd (End animation for shooting the weapon) (This is a sort of another kick to the weapon, beam gets cut off and character gets affected by it)
+AS_Char_Weapon_LaserGun_Inspect (Inspect animation for the weapon) (Character is a bit curious on how the weapon works, maybe a small interaction, animation should allow for skin previews by players) (This animation has no specific lenght, a soft lenght would be arround 300 frames?) (Needs review)
+AS_Char_Weapon_LaserGun_OverHeatStart (Start animation for overheating the weapon) (Character dosent want to get burnt and moves weapon a bit to the side) (Weapon vents pop up agresiveley, character also reacts a bit to this) 
+AS_Char_Weapon_LaserGun_OverHeatLoop (Looping overheat animation for the weapon) (Weapon is constantly venting smoke, make weapon have charater, like if it was angry that it overheated) (Subtle shakes and diferent out of sync rotations for the vents) (A lot of the character will be protrayed by the vents)
+AS_Char_Weapon_LaserGun_OverHeatEnd (End animation for overheating the weapon) (Weapon stops being overheated and character transitions into the idle pose)
+
+==Notes==
+
+Each animation that moves the weapon must have the respective weapon animation 
+
+Say we have an animation for overheating on the character Ex. AS_Char_Weapon_LaserGun_OverHeatLoop
+then we also need to have a matching animation for the weapon Ex.AS_WPN_Weapon_LaserGun_OverHeatLoop
+
+Idle loop animation isnt needed as the game has a procdural animation in place
+
+Weapon movement must be handled by the weapon bone on the character (blend file comes with the setup ready for animation)
+
+Camera animation is handled by moving the Camera bone of the character (Not implemented in game yet)
+
+There isnt a need for TP animations as they can be dynamically made in game
+
+Character body must remain the in the same pose, anything that's unrelated to the arms can't be moved (Spine, Chest, Hips, Legs)
