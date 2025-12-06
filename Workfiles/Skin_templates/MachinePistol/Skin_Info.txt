@@ -1,0 +1,22 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon Name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_MachinePistol_RedDecay_BaseColor
+    T_MachinePistol_RedDecay_NormalMap
+    T_MachinePistol_RedDecay_OclussionRougnessMetalic
+    T_MachinePistol_RedDecay_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: MachinePistol
+
+Skin Name: Template Skin
+
+Skin Description: Template colors used for example skin
+
+Skin Author: Toaster Arena
+
