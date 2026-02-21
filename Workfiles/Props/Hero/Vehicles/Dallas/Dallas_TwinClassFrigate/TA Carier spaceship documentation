@@ -1,0 +1,10 @@
+For the model explode (note that currently the constrains for the model explode are swiched to "hide" so make sure to just unhide them):
+-the Z axis for model explode is 300 units positive
+-the X axis for model explode is 200 units positive
+
+The actual name for the textures folder is called "TA Spaceship Textures - TEST for UE" 
+so depending on which one of the 2 you will use make sure to rename the folder to than name so the Blende can... yuo know.
+
+There are 2 easter eggs in the textures, one is very visible (I think I showed it to you), 
+the 2nd one is pretty much invisible in 3d veiw but you can find it in the alpha map (or height map idk if that's the same thing).
+

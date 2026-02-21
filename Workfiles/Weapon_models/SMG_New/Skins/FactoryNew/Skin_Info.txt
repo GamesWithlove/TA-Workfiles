@@ -1,0 +1,22 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_SMG_RedDecay_BaseColor
+    T_SMG_NormalMap
+    T_SMG_OclussionRougnessMetalic
+    T_SMG_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: SMG
+
+Skin Name: Factory New
+
+Skin Description: Woke up in a new Buggatiitit  / Collector's item
+
+Skin Author: Colaonooo
+
