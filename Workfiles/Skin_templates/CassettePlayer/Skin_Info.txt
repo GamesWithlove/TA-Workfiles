@@ -1,0 +1,32 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_CassettePlayer_BaseColor
+    T_CassettePlayer_NormalMap
+    T_CassettePlayer_OclussionRougnessMetalic
+    T_CassettePlayer_Emissive
+
+    T_CassetteGlass_BaseColor
+    T_CassetteGlass_NormalMap
+    T_CassetteGlass_OclussionRougnessMetalic
+    T_CassetteGlass_Emissive
+
+
+    T_CassetteTape_BaseColor
+    T_CassetteTape_NormalMap
+    T_CassetteTape_OclussionRougnessMetalic
+    T_CassetteTape_Emissive
+
+
+====Fill the info here====
+
+Weapon: Cassette Player
+
+Skin Name: Template Skin
+
+Skin Description: Template colors used for example skin
+
+Skin Author: Toaster Arena
+
