@@ -1,0 +1,7 @@
+Weapon: SMG
+
+Skin Name: Classic Military
+
+Skin Description: Blends well with a terrain... as long as the sorunding area is of the similar colors of course
+
+Skin Author: Teo Supreme

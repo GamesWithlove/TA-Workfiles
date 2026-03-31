@@ -1,0 +1,7 @@
+Weapon: Lasergun
+
+Skin Name: Lost and Found
+
+Skin Description: Found berried in a ground near a factory site, somehow still fully functinal.
+
+Skin Author: Teo Supreme

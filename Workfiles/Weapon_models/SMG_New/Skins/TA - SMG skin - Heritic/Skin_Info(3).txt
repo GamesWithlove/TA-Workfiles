@@ -1,0 +1,7 @@
+Weapon: SMG
+
+Skin Name: Heritic
+
+Skin Description: "MY WEAPON IS JAMMED!!!"
+
+Skin Author: Teo Supreme

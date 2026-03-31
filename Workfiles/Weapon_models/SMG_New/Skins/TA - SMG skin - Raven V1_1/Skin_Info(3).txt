@@ -1,0 +1,7 @@
+Weapon: SMG
+
+Skin Name: Raven
+
+Skin Description: She's soooo cool
+
+Skin Author: Teo Supreme

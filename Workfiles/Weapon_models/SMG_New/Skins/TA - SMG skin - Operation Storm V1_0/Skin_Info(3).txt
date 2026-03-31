@@ -1,0 +1,7 @@
+Weapon: SMG
+
+Skin Name: Operation Storm
+
+Skin Description: "Oh beautiful, oh dear, oh sweet freedom..."
+
+Skin Author: Teo Supreme

@@ -1,0 +1,7 @@
+Weapon: SMG
+
+Skin Name: Matrix Rain
+
+Skin Description: "He's beginning to believe"
+
+Skin Author: Teo Supreme

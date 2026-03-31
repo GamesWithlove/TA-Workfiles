@@ -1,0 +1,7 @@
+Weapon: SMG
+
+Skin Name: The Supreme
+
+Skin Description: The undefeatable urge to keep going
+
+Skin Author: Teo Supreme

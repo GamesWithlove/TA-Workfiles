@@ -1,0 +1,7 @@
+Weapon: SMG
+
+Skin Name: [INSERT NAME]
+
+Skin Description: [INSERT DESCRIPTION]
+
+Skin Author: Teo Supreme

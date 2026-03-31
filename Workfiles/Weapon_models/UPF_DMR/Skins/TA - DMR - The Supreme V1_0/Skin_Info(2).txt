@@ -1,0 +1,7 @@
+Weapon: DMR
+
+Skin Name: The Supreme
+
+Skin Description: Any weapon is great weapon with skilled enough user
+
+Skin Author: Teo Supreme

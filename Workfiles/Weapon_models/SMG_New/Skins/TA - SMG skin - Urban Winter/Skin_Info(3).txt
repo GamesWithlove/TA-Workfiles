@@ -1,0 +1,7 @@
+Weapon: SMG
+
+Skin Name: Classic Military - Winter
+
+Skin Description: All seems well untl you try using it during an actual winter, it is in fact fully metal, IT'S SOO COLD TO THE TOUCH
+
+Skin Author: Teo Supreme
