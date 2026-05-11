@@ -1,0 +1,7 @@
+Weapon: BoomStick
+
+Skin Name: Caution
+
+Skin Description: It's always the orange toaster's that stink :3
+
+Skin Author: Teo Supreme
