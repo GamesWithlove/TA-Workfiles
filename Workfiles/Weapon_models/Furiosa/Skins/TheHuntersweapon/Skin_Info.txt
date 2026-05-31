@@ -1,0 +1,22 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    SK_Pump_Shotgun_Exploded_Shotgun_mat_BaseColor
+    SK_Pump_Shotgun_Exploded_Shotgun_mat_BaseColor
+    SK_Pump_Shotgun_Exploded_Shotgun_mat_BaseColor
+    SK_Pump_Shotgun_Exploded_Shotgun_mat_BaseColor
+
+
+
+====Fill the info here====
+
+Weapon: Furiosa
+
+Skin Name: The Hunter's weapon
+
+Skin Description: [Cosmetic only] The Hunters weapon has a corrosive Barrel that can cut through metal like nothing  
+
+Skin Author: EpicHezzy
+
