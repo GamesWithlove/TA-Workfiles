@@ -1,0 +1,20 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_SodaCan_BoopEngery_BaseColor
+    T_SodaCan_RedDecay_NormalMap
+    T_SodaCan_RedDecay_OclussionRougnessMetalic
+    T_SodaCan_RedDecay_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: SodaCan
+
+Skin Name: Boop Engery
+
+Skin Description: make something up yourself, i dont wnna make lor
+Skin Author: MEEEEE COLAONOOOOOOOOOOOOOO
