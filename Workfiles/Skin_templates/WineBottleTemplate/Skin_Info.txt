@@ -1,0 +1,22 @@
+====Naming convertsion for textures is as follows====
+
+T_(Weapon name)_(Skin Name)_(Materialtype)
+
+Ex. 
+    T_WineBottle_RedDecay_BaseColor
+    T_WineBottle_RedDecay_NormalMap
+    T_WineBottle_RedDecay_OclussionRougnessMetalic
+    T_WineBottle_RedDecay_Emissive
+
+
+
+====Fill the info here====
+
+Weapon: WineBottle
+
+Skin Name: Template Skin
+
+Skin Description: Template colors used for example skin
+
+Skin Author: Toaster Arena
+
