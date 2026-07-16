@@ -1,6 +1,6 @@
 {
 	"characterToModify": "ZombieAttack",
-	"modName": "AVA Zombie ",
-	"mod Description": "Test Mod\r\n",
+	"modName": "AVA as attack zombie",
+	"modDescription": "AVA as attack zombie",
 	"gameVersion": "0.33.36"
 }
